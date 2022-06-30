@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="device_service_base_url">http://192.168.123.59:8888</string>
+</resources>
